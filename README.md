@@ -27,4 +27,4 @@
 
 # Let's connect! 🌎
 
-[![LinkedIn](https://github.com/SantiagoG117/Icons/blob/main/linkidNEW.png)](https://www.linkedin.com/in/santiago-garcia-201792261/)
+[![LinkedIn](https://github.com/SantiagoG117/Icons/blob/main/linkidNEW.png)](https://www.linkedin.com/in/wenqi-tang-744b48277/)
